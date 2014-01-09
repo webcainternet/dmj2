@@ -29,11 +29,13 @@ body.home {
 ::-moz-selection {background: rgb(255,255,255); color: #000;}
 img::selection {background: transparent;}
 img::-moz-selection {background: transparent;}
-body {-webkit-tap-highlight-color: rgb(255,255,255); color: #000;}
+body {-webkit-tap-highlight-color: rgb(255,255,255); color: #000;
+}
 
 #main {
 	background: url(images/main.jpg) no-repeat 50% 0%;
 	font-size: .75em;
+	/* margin-top: 140px; */
 }
 	
 
@@ -65,10 +67,11 @@ dl {
 ---------------------------------------- */
 
 #header {
-	background: url(images/header.png) no-repeat 50% 40px;
+	/* background: url(images/header.png) no-repeat 50% 40px; */
 	position: relative;
 	height: 193px;
 	z-index: 99;
+	background-color: white;
 }
 
 	body.home #header {
@@ -207,6 +210,7 @@ dl {
 	position: absolute;
 	top: 0;
 	left: 0;
+	padding-top: 175px;
 }
 
 #slider {
@@ -2257,8 +2261,12 @@ article.testimonial {
 .area_1 {
 	background: #17181a url(images/area_1.jpg) no-repeat 50% 0%;
 	width: 100%;
-	padding: 40px 0 105px 0;
+	padding-top: 215px;
+	padding-right: 0px;
+	padding-bottom: 50px;
+	padding-left: 0px;
 	text-align: center;
+	
 }
 
 	.area_1 .textwidget {
@@ -2273,7 +2281,10 @@ article.testimonial {
 .area_2 {
 	background: #161719;
 	width: 100%;
-	padding: 60px 0 60px 0;
+	padding-top: 140px;
+	padding-right: 0px;
+	padding-bottom: 60px;
+	padding-left: 0px;
 }
 
 .area_3 {
