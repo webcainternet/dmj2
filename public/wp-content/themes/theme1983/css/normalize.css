@@ -99,7 +99,7 @@ object {
    ========================================================================== */
 
 a {
-    color: #98b10a;
+    color: #8F41CC;
 		outline:none;
 		text-decoration:underline;
 }
@@ -144,7 +144,7 @@ h1 {
 	}
 	
 		h1 a:hover {
-			color: #98b10a !important;
+			color: #8F41CC !important;
 		}
 
 h2 {
@@ -162,7 +162,7 @@ h2 {
 	}
 	
 		h2 a:hover {
-			color: #98b10a !important;
+			color: #8F41CC !important;
 		}
 		
 	h2 em {
@@ -186,7 +186,7 @@ h3 {
 	}
 	
 		h3 a:hover {
-			color: #98b10a !important;
+			color: #8F41CC !important;
 		}
 
 h4{
@@ -208,7 +208,7 @@ h5 {
 	}
 	
 		h5 a:hover {
-			color: #98b10a;
+			color: #8F41CC;
 		}
 
 h6 {
