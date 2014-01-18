@@ -644,12 +644,12 @@ li.sfHover > a > .sf-sub-indicator {
 			list-style: none;
 			line-height: 18px;
 			font-size: 12px;
-			color: #8F41CC;
+			color: #770BB5;
 		}
 		
 			.primary_content_wrap ul li a {
 				text-decoration: none;
-				color: #8F41CC;
+				color: #770BB5;
 			}
 				
 				.primary_content_wrap ul li a:hover {
@@ -745,7 +745,7 @@ ol.commentlist {
 		float: right;
 		line-height: 36px;
 		font-size: 12px;
-		color: #8F41CC;
+		color: #770BB5;
 	} 
   
   .comment-meta a {
@@ -797,7 +797,7 @@ ol.commentlist {
 		}
 
 			.reply a:hover {
-				color: #8F41CC !important;
+				color: #770BB5 !important;
 			}
 			
 			html.ie8 .reply a {
@@ -1044,7 +1044,7 @@ ul.related-posts {
 	}
  
 		.pagenavi a:hover, .pagenavi .current {
-			color: #8F41CC;
+			color: #770BB5;
 		}
 	
 	.pagenavi .pages {
@@ -1133,7 +1133,7 @@ nav.oldernewer {
 				}
 			.g_pagination li.activeSlide a,
 			.g_pagination li a:hover {
-				background:#8F41CC;
+				background:#770BB5;
 				}
 .g_controls {
 	float:right;
@@ -1153,7 +1153,7 @@ nav.oldernewer {
 			padding:2px 6px 4px 6px;
 			}
 	.g_controls a:hover {
-		background:#8F41CC;
+		background:#770BB5;
 		}
 
 /* Author
@@ -1242,7 +1242,7 @@ nav.oldernewer {
 .error404-num {
 	font-size:250px;
 	line-height:1.2em;
-	color:#8F41CC;
+	color:#770BB5;
 }
 
 
@@ -1325,7 +1325,7 @@ nav.oldernewer {
 				}
 				
 					#gallery .portfolio li h6 a:hover {
-						color: #8F41CC;
+						color: #770BB5;
 					}
 			
 		* + html #gallery .portfolio li {
@@ -2162,7 +2162,7 @@ article.testimonial {
 	.tags-cloud a:hover,
 	.tagcloud a:hover,
 	.post-footer a:hover {
-		color: #8F41CC;
+		color: #770BB5;
 	}
 
 
@@ -2338,7 +2338,7 @@ a.button {
 }
 
 	a.button:hover {
-		color: #8F41CC !important;
+		color: #770BB5 !important;
 	}
 
 	html.ie8 a.button {
@@ -2382,13 +2382,13 @@ ul.latestpost {
 			}
 			
 				ul.latestpost li strong a:hover {
-					color: #8F41CC;
+					color: #770BB5;
 				}
 				
 		ul.latestpost li time {
 			display: block;
 			line-height: 20px;
-			color: #8F41CC;
+			color: #770BB5;
 		}
 
 ul.social-networks {
@@ -2522,7 +2522,7 @@ ul.news {
 			}
 			
 				ul.news li strong a:hover {
-					color: #8F41CC;
+					color: #770BB5;
 				}
 
 ul.extra {
@@ -2591,7 +2591,7 @@ ul.extra:before {
 			}
 			
 				ul.extra li strong a:hover {
-					color: #8F41CC;
+					color: #770BB5;
 				}
 			
 		ul.extra li .post_content {
@@ -2625,7 +2625,7 @@ ul.info {
 		
 		ul.info li a {
 			text-decoration: underline !important;
-			color: #8F41CC !important;
+			color: #770BB5 !important;
 		}
 		
 			ul.info li a:hover {
@@ -2673,7 +2673,7 @@ ul.services {
 			}
 			
 				ul.services li h5 a:hover {
-					color: #8F41CC;
+					color: #770BB5;
 				}
 				
 		ul.services li .excerpt {
@@ -2731,13 +2731,13 @@ ul.services {
 			}
 			
 				.twitter ul li a:hover {
-					color: #8F41CC;
+					color: #770BB5;
 				}
 				
 			.twitter ul li a.timesince {
 				font-weight: normal;
 				text-decoration: none;
-				color: #8F41CC;
+				color: #770BB5;
 			}
 			
 				.twitter ul li a.timesince:hover {
@@ -2792,7 +2792,7 @@ ul.services {
 	}
 	
 		.post-meta a:hover {
-			color: #8F41CC;
+			color: #770BB5;
 		}
 		
 	.post-meta time {
@@ -3403,7 +3403,7 @@ input[type="submit"], input[type="reset"] {
 }
 
 	input[type="submit"]:hover, input[type="reset"]:hover {
-		color: #8F41CC;
+		color: #770BB5;
 	}
 	
 	html.ie8 input[type="submit"], html.ie8 input[type="reset"] {
@@ -3434,7 +3434,7 @@ input[type="submit"], input[type="reset"] {
 	
 	#commentform a {
 		text-decoration: underline !important;
-		color: #8F41CC !important;
+		color: #770BB5 !important;
 	}
 	
 		#commentform a:hover {
