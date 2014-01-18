@@ -69,7 +69,7 @@ dl {
 #header {
 	/* background: url(images/header.png) no-repeat 50% 40px; */
 	position: relative;
-	height: 150px;
+	height: 80px;
 	z-index: 99;
 	background-color: white;
 }
@@ -210,7 +210,7 @@ dl {
 	position: absolute;
 	top: 0;
 	left: 0;
-	padding-top: 150px;
+	padding-top: 0px;
 }
 
 #slider {
