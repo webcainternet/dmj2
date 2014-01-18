@@ -2267,6 +2267,7 @@ article.testimonial {
 	padding-bottom: 50px;
 	padding-left: 0px;
 	text-align: center;
+	display: none;
 	
 }
 
@@ -2286,6 +2287,7 @@ article.testimonial {
 	padding-right: 0px;
 	padding-bottom: 60px;
 	padding-left: 0px;
+	display: none;
 }
 
 .area_3 {
@@ -2303,6 +2305,7 @@ article.testimonial {
 	width: 100%;
 	overflow: hidden;
 	padding: 58px 0 64px 0;
+	display: none;
 }
 
 	.area_4 h2 {
