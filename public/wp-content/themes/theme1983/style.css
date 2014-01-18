@@ -890,11 +890,11 @@ ol.commentlist {
 /* Featured thumbnail */
 
 .featured-thumbnail {
-	background: #fbfbfc;
+	/* background: #fbfbfc; */
 	position: relative;
 	float: left;
 	margin: 5px 20px 10px 0;
-	padding: 8px;
+	/* padding: 8px; */
 }
 
 	.featured-thumbnail img {
@@ -2685,10 +2685,10 @@ ul.services {
 }
 
 	.thumbnail img {
-		background: #fff;
+		/* background: #fff; */
 		float: left;
 		margin: 0 20px 0 0;
-		padding: 5px;
+		/* padding: 5px; */
 	}
 
 .client-thumbnail {
