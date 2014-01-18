@@ -71,7 +71,8 @@ dl {
 	position: relative;
 	height: 80px;
 	z-index: 99;
-	background-color: white;
+	/* background-color: white; */
+	background: none repeat scroll 0 0 rgba(0, 0, 0, 0.4);
 }
 
 	body.home #header {
@@ -394,7 +395,7 @@ a.nivo-prevNav:hover {
 /* Primary navigation */
 nav.primary {
 	position: absolute;
-	top: 86px;
+	top: 30px;
 	right: 0px;
 	z-index: 99;
 }
