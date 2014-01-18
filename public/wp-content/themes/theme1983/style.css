@@ -478,7 +478,7 @@ ul.sf-menu li li li.sfHover ul {
 	.sf-menu li a {
 		padding: 0 16px 0 15px;
 		line-height: 18px;
-		font-size: 12px;
+		font-size: 14px;
 		text-transform: uppercase;
 		color: #8e8f8f;
 	}
@@ -515,7 +515,7 @@ ul.sf-menu li li li.sfHover ul {
 
 .sf-menu li.sfHover > a,
 .sf-menu li > a:focus, .sf-menu li > a:hover, .sf-menu li > a:active, .sf-menu li.current-menu-item > a {
-	color: #343434;
+	color: #672D91;
 	outline: 0;
 }
 
