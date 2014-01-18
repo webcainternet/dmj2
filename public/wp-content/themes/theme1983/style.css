@@ -84,9 +84,9 @@ dl {
 .logo {
 	/* background: url(images/logo_bg.jpg) no-repeat 0% 0%; */
 	height: 79px;
-	padding: 15px 0 14px 14px;
+	padding: 0px 0 14px 14px;
 	position: absolute;
-	top: 30px;
+	top: 5px;
 	left: 0;
 }
 
