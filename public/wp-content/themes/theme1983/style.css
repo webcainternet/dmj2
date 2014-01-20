@@ -77,6 +77,8 @@ dl {
 
 	body.home #header {
 		margin: 0 0 450px 0;
+		position: fixed;
+		width: 100%;
 	}
 
 /* Logo */
