@@ -2940,6 +2940,8 @@ nav.footer {
 	line-height: 34px;
 	font-size: 12px;
 	color: #4d4d4e;
+	height: 20px;
+	margin-top: 6px;
 }
 
 	#footer-text img {
