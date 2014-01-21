@@ -28,4 +28,6 @@
 		</div>
 	</div><!--#content-->
 <?php get_sidebar(); ?>
+
+fewfewfew
 <?php get_footer(); ?>
