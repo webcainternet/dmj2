@@ -3381,7 +3381,7 @@ input, select, textarea {
 
 input[type="text"], textarea {
 	background: #000;
-	min-height: 18px;
+	min-height: 15px;
 	margin: 0;
 	padding: 10px;
 	resize: none;
@@ -3493,7 +3493,7 @@ input[type="submit"], input[type="reset"] {
 }
 
 .wpcf7-form input[type="text"] {
-	width: 277px;
+	width: 350px;
 }
 
 .wpcf7-form input[type="submit"] {
@@ -3521,7 +3521,7 @@ input[type="submit"], input[type="reset"] {
 	}
 	
 .wpcf7-form textarea {
-	width: 277px;
+	width: 350px;
 	height: 277px;
 	overflow: auto;
 }
