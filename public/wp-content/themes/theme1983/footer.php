@@ -54,7 +54,7 @@
                     <?php if($myfooter_text){?>
 						<?php echo of_get_option('footer_text'); ?>
                     <?php } else { ?>
-                        <a href="<?php bloginfo('url'); ?>/"><img src="<?php bloginfo( 'template_url' ); ?>/images/small_logo.png" alt="" style="margin-top: 6px;" /></a> &copy; <?php echo date ('Y'); ?> | <a href="<?php bloginfo('url'); ?>/privacy-policy/" title="Privacy Policy"><?php _e('Privacy Policy', 'theme1983'); ?></a> <?php if( is_front_page() ) { ?><a rel="nofollow" href="http://www.templatemonster.com/wordpress-themes.php" target="_blank">TemplateMonster</a> Design. <?php } ?>
+                        <a href="<?php bloginfo('url'); ?>/"><img src="<?php bloginfo( 'template_url' ); ?>/images/small_logo.png" alt="" style="margin-top: 6px;" /></a> &copy; <?php echo date ('Y'); ?> | Desenvolvido por <a href="http://webca.com.br/" target="_blank" title="WebCA Internet">WebCA Internet</a>
                     <?php } ?>
                 </div>
 					
