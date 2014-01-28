@@ -1065,6 +1065,7 @@ ul.related-posts {
 
 /* Older and newer navigation */
 nav.oldernewer {
+	display: none;
 	width:100%;
 	overflow:hidden;
 	margin-bottom:1.5em;
