@@ -55,6 +55,7 @@
 										<div id="pp_full_res"></div> \
 										<div class="pp_details"> \
 											<p class="pp_description"></p> \
+											<p class="pp_description"></p> \
 										</div> \
 									</div> \
 								</div> \
