@@ -34,7 +34,7 @@
 	div.pp_default .pp_gallery ul li a { background: url(../images/prettyPhoto/default/default_thumb.png) center center #f8f8f8; border:1px solid #aaa; }
 	div.pp_default .pp_gallery ul li a:hover,
 	div.pp_default .pp_gallery ul li.selected a { border-color: #fff; }
-	div.pp_default .pp_social { margin-top: 7px; }
+	div.pp_default .pp_social { margin-top: 7px; display: none; }
 
 	div.pp_default .pp_gallery a.pp_arrow_previous,
 	div.pp_default .pp_gallery a.pp_arrow_next { position: static; left: auto; }
